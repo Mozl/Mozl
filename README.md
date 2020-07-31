@@ -1,5 +1,7 @@
 # Hi, I'm Louis 🤘🏻 👨🏻‍💻
 
+[<img src="https://raw.githubusercontent.com/Mozl/Mozl/master/assets/profile_header.jpg">](https://mozl.netlify.app/)
+
 I am a software engineer with a passion for creating exciting, performant web experiences using cutting-edge tech. Some technologies I enjoy using are React, Typescript, Redux and Machine Learning.
 
 [<img src="https://raw.githubusercontent.com/Mozl/Mozl/master/assets/Sounds.png">](https://www.bbc.co.uk/sounds)
